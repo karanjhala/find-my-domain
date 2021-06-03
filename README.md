@@ -24,7 +24,11 @@ Find My Domain helps you to generate a domain name. It also helps you check if t
 
 ### End Users
 
+#### Get Started
+
 ### Developers
+
+#### Get Started
 
 ## License
 
