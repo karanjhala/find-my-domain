@@ -10,17 +10,9 @@ Find My Domain helps you to generate a domain name. It also helps you check if t
 - [Usage](#usage)
   - [End Users](#end-users)
   - [Developers](#developers)
-- Tech Stack
-  - Front-end
-    - React
-    - Redux
-    - Redux Toolkit
-    - Material UI
-  - Back-end  
-    - Node.js
-  - Deployment
-    - Vercel
+- [Tech Stack](#tech-stack)
 - [License](#license)
+
 
 ## Features
 
@@ -29,6 +21,7 @@ Find My Domain helps you to generate a domain name. It also helps you check if t
 - You can choose a domain from a list of domains that have been generated for you **(In Progress)**
 - You can check if the chosen domain is available for purchase **(In Progress)**
 - You can check the best deals available from top domain registrars **(In Progress)**
+
 
 ## Usage
 
@@ -39,6 +32,25 @@ Find My Domain helps you to generate a domain name. It also helps you check if t
 ### Developers
 
 #### Get Started
+
+
+## Tech Stack
+
+### Front-end
+
+    - React
+    - Redux
+    - Redux Toolkit
+    - Material UI
+
+### Back-end  
+
+    - Node.js
+    
+### Deployment
+
+    - Vercel
+
 
 ## License
 
