@@ -10,6 +10,16 @@ Find My Domain helps you to generate a domain name. It also helps you check if t
 - [Usage](#usage)
   - [End Users](#end-users)
   - [Developers](#developers)
+- Tech Stack
+  - Front-end
+    - React
+    - Redux
+    - Redux Toolkit
+    - Material UI
+  - Back-end  
+    - Node.js
+  - Deployment
+    - Vercel
 - [License](#license)
 
 ## Features
